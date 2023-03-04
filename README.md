@@ -1,5 +1,6 @@
 # Discrete-Event-Simulation 
-This repository includes an assignment from IE306 Systems Simulation course.  
+This repository includes an assignment from the IE306 Systems Simulation course.  
+  
 IE 306 – Fall 2022  
 1- There are two parallel servers and a single waiting line. Customers are eventually serviced by the 
 first free server. If a customer arrives while both servers are idle, she/he then prefers 
@@ -14,6 +15,7 @@ idle initially. Use the following sequence of random numbers as necessary:
 0.380 0.496 0.832 0.391 0.020 0.480 0.975 0.759 0.905 0.593 0.560 …
 (When an arrival and a departure must be simultaneously scheduled, use the 
 convention of scheduling the arrival first).  
+  
 2- Using event-scheduling algorithm, write a computer program to simulate the 
 system described above. Organize your program using typical simulation variables 
 and structures discussed in class and in your texts.
